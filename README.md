@@ -3,9 +3,8 @@
 
 ## Tech Stack
 - **Frontend:** React, Axios
-- **Backend:** Node.js (Express) (assuming from your axios usage; modify if different)
+- **Backend:** Node.js (Express) 
 - **Styling:** CSS for layout and design
-- **Database:** (assumed, modify accordingly, e.g., MongoDB or SQL)
 
 ## To Run the Project Locally, Follow These Steps:
 
